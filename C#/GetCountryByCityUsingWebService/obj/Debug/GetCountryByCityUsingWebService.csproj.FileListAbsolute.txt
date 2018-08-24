@@ -1,0 +1,389 @@
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/ApplicationInsights.config
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/csc.exe
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CSharp.Core.targets
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.VisualBasic.Core.targets
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Collections.Immutable.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Reflection.Metadata.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/vbc.exe
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/VBCSCompiler.exe
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/VBCSCompiler.exe.config
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/GetCountryByCityUsingWebService.dll.config
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/GetCountryByCityUsingWebService.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/GetCountryByCityUsingWebService.pdb
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.Agent.Intercept.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.DependencyCollector.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.PerfCounterCollector.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.ServerTelemetryChannel.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.Web.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.WindowsServer.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.ApplicationInsights.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.DependencyCollector.xml
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.ServerTelemetryChannel.xml
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.Web.xml
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.WindowsServer.xml
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.ApplicationInsights.xml
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.csprojResolveAssemblyReference.cache
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.dll
+//mercyhome/ag/gsayana1/My Documents/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.pdb
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/ApplicationInsights.config
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/GetCountryByCityUsingWebService.dll.config
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/GetCountryByCityUsingWebService.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/GetCountryByCityUsingWebService.pdb
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/csc.exe
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/csc.exe.config
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/csc.rsp
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/csi.exe
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/csi.exe.config
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/csi.rsp
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.AppContext.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Console.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.IO.Compression.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.IO.Pipes.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Claims.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.ValueTuple.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.XPath.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/vbc.exe
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/vbc.exe.config
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/vbc.rsp
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/VBCSCompiler.exe
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Geocoding.Core.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Geocoding.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.Agent.Intercept.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.DependencyCollector.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.PerfCounterCollector.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.ServerTelemetryChannel.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.Web.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.WindowsServer.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.ApplicationInsights.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AspNet.TelemetryCorrelation.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.Win32.Primitives.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Newtonsoft.Json.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.AppContext.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.Console.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.Diagnostics.DiagnosticSource.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.Globalization.Calendars.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.IO.Compression.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.IO.Compression.ZipFile.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.IO.FileSystem.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.IO.FileSystem.Primitives.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.Net.Http.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.Net.Sockets.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.Algorithms.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.Encoding.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.Primitives.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.X509Certificates.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.Xml.ReaderWriter.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.DependencyCollector.xml
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.Web.xml
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.WindowsServer.xml
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.AspNet.TelemetryCorrelation.xml
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/Newtonsoft.Json.xml
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/bin/System.Diagnostics.DiagnosticSource.xml
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.dll
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.pdb
+C:/Users/gsayana1/OneDrive - Mercy Online/Visual Studio 2015/Projects/GetCountryByCityUsingWebService/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.csprojResolveAssemblyReference.cache
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/ApplicationInsights.config
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/GetCountryByCityUsingWebService.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/GetCountryByCityUsingWebService.pdb
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/csc.exe
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/csc.exe.config
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/csc.rsp
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/csi.exe
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/csi.exe.config
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/csi.rsp
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.AppContext.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Collections.Immutable.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Console.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.IO.Compression.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.IO.FileSystem.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.IO.Pipes.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Reflection.Metadata.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Security.AccessControl.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Claims.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.ValueTuple.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.XPath.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/vbc.exe
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/vbc.exe.config
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/vbc.rsp
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/VBCSCompiler.exe
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/roslyn/VBCSCompiler.exe.config
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Geocoding.Core.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Geocoding.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Microsoft.AI.Agent.Intercept.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Microsoft.AI.DependencyCollector.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Microsoft.AI.PerfCounterCollector.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Microsoft.AI.Web.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Microsoft.AI.WindowsServer.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Microsoft.ApplicationInsights.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Microsoft.AspNet.TelemetryCorrelation.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Microsoft.Win32.Primitives.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Newtonsoft.Json.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.AppContext.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.Console.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.Diagnostics.DiagnosticSource.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.Globalization.Calendars.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.IO.Compression.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.IO.Compression.ZipFile.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.IO.FileSystem.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.IO.FileSystem.Primitives.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.Net.Http.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.Net.Sockets.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.Algorithms.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.Encoding.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.Primitives.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.X509Certificates.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.Xml.ReaderWriter.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Microsoft.AI.DependencyCollector.xml
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Microsoft.AI.Web.xml
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Microsoft.AI.WindowsServer.xml
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Microsoft.AspNet.TelemetryCorrelation.xml
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/Newtonsoft.Json.xml
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/bin/System.Diagnostics.DiagnosticSource.xml
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.csprojResolveAssemblyReference.cache
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.csproj.CoreCompileInputs.cache
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.dll
+/Users/girikumar/Desktop/GetCountryByCityUsingWebService 2/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.pdb
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/ApplicationInsights.config
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/GetCountryByCityUsingWebService.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/GetCountryByCityUsingWebService.pdb
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/csc.exe
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/csc.exe.config
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/csc.rsp
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/csi.exe
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/csi.exe.config
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/csi.rsp
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.AppContext.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Collections.Immutable.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Console.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.IO.Compression.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.IO.FileSystem.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.IO.Pipes.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Reflection.Metadata.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Security.AccessControl.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Claims.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.ValueTuple.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.XPath.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/vbc.exe
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/vbc.exe.config
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/vbc.rsp
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/VBCSCompiler.exe
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/roslyn/VBCSCompiler.exe.config
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Geocoding.Core.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Geocoding.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.Agent.Intercept.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.DependencyCollector.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.PerfCounterCollector.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.Web.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.WindowsServer.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Microsoft.ApplicationInsights.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Microsoft.AspNet.TelemetryCorrelation.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Microsoft.Win32.Primitives.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Newtonsoft.Json.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.AppContext.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.Console.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.Diagnostics.DiagnosticSource.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.Globalization.Calendars.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.IO.Compression.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.IO.Compression.ZipFile.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.IO.FileSystem.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.IO.FileSystem.Primitives.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.Net.Http.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.Net.Sockets.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.Algorithms.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.Encoding.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.Primitives.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.X509Certificates.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.Xml.ReaderWriter.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.DependencyCollector.xml
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.Web.xml
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Microsoft.AI.WindowsServer.xml
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Microsoft.AspNet.TelemetryCorrelation.xml
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/Newtonsoft.Json.xml
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/bin/System.Diagnostics.DiagnosticSource.xml
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.csprojResolveAssemblyReference.cache
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.csproj.CoreCompileInputs.cache
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.dll
+/Users/girikumar/Desktop/GetCountryByCity_Google_WebService/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.pdb
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/ApplicationInsights.config
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/GetCountryByCityUsingWebService.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/GetCountryByCityUsingWebService.pdb
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/csc.exe
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/csc.exe.config
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/csc.rsp
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/csi.exe
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/csi.exe.config
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/csi.rsp
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.AppContext.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Collections.Immutable.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Console.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.IO.Compression.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.IO.FileSystem.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.IO.Pipes.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Reflection.Metadata.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Security.AccessControl.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Claims.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.ValueTuple.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.XPath.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/vbc.exe
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/vbc.exe.config
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/vbc.rsp
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/VBCSCompiler.exe
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/roslyn/VBCSCompiler.exe.config
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Geocoding.Core.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Geocoding.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Microsoft.AI.Agent.Intercept.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Microsoft.AI.DependencyCollector.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Microsoft.AI.PerfCounterCollector.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Microsoft.AI.Web.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Microsoft.AI.WindowsServer.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Microsoft.ApplicationInsights.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Microsoft.AspNet.TelemetryCorrelation.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Microsoft.Win32.Primitives.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Newtonsoft.Json.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.AppContext.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.Console.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.Diagnostics.DiagnosticSource.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.Globalization.Calendars.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.IO.Compression.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.IO.Compression.ZipFile.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.IO.FileSystem.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.IO.FileSystem.Primitives.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.Net.Http.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.Net.Sockets.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.Algorithms.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.Encoding.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.Primitives.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.Security.Cryptography.X509Certificates.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.Xml.ReaderWriter.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Microsoft.AI.DependencyCollector.xml
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Microsoft.AI.Web.xml
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Microsoft.AI.WindowsServer.xml
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Microsoft.AspNet.TelemetryCorrelation.xml
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/Newtonsoft.Json.xml
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/bin/System.Diagnostics.DiagnosticSource.xml
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.csprojResolveAssemblyReference.cache
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.csproj.CoreCompileInputs.cache
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.dll
+/Users/girikumar/Desktop/GetStateByCity/GetCountryByCityUsingWebService/obj/Debug/GetCountryByCityUsingWebService.pdb
