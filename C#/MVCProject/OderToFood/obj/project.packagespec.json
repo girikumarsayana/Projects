@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/girikumarsayana/RiderProjects/MVCProject/OderToFood/OderToFood.csproj",
+    "projectUniqueName": "/Users/girikumarsayana/Projects/C#/MVCProject/OderToFood/OderToFood.csproj",
     "projectName": "OderToFood",
-    "projectPath": "/Users/girikumarsayana/RiderProjects/MVCProject/OderToFood/OderToFood.csproj",
-    "outputPath": "/Users/girikumarsayana/RiderProjects/MVCProject/OderToFood/obj/",
+    "projectPath": "/Users/girikumarsayana/Projects/C#/MVCProject/OderToFood/OderToFood.csproj",
+    "outputPath": "/Users/girikumarsayana/Projects/C#/MVCProject/OderToFood/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
