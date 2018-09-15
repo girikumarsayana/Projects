@@ -1,0 +1,151 @@
+ tr{
+	display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+td{
+	box-sizing: border-box;
+	display: table-cell;	
+}
+
+table, th, td {
+    border: 2px solid black;
+    padding: 15px;
+	border-color: #13567c;
+	margin : 20px auto;
+	/*width : 500px;*/
+}
+table {
+    border-collapse: collapse;
+	overflow:auto;
+}
+
+
+/******** NEW STYLE ********/
+#sudoku_grid{
+	padding-top:20px;	
+}
+
+#sudoku_grid table {
+    border-collapse: collapse;
+    overflow: auto;
+    border: 2px solid #13567C;
+    margin: 0 auto;
+}
+
+#sudoku_grid table tr:nth-child(3n) {
+	border-bottom: 2px solid #13567C;
+}
+
+#sudoku_grid table tr td {
+	border: 1px solid #eee;
+	padding: 0;
+}
+
+#sudoku_grid table tr td:nth-child(3n) {
+    border-right: 2px solid #13567C;
+}
+
+#sudoku_grid input.grid_cell {
+    outline: none;
+    margin: 0;
+    border: none;
+    padding: 0;
+    height: 50px;
+    width: 50px;
+    background: #FFF;
+    font-size: 18px;
+    font-weight: bold;
+	text-align: center;
+	color: #333;
+}
+    
+#sudoku_grid input.editable {
+	color: #33F;
+}
+
+#sudoku_grid input.right {
+	color: #3D3;
+}
+
+#sudoku_grid input.wrong {
+	color: #F33;
+}
+
+#sudoku_grid input.blocked {
+	/*color: #FFF;*/
+	font-size: 0px;
+}
+
+.game_buttons {
+	display: none;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.game_buttons ul {
+	padding: 0;
+}
+
+.game_buttons ul li {
+	display: inline-block;
+}
+
+.game_buttons ul li a {
+	background: #6B4A11;
+	color: #FFD388;
+	border-radius:15px;
+    font-size: 20px;
+    float: left;
+    padding: 5px 15px;
+    margin: 0;
+    
+}
+
+.game_buttons ul li a:hover {
+	color: #FFF;
+}
+
+.game_buttons ul li span {
+	display: inline-block;
+	color: #FFD388;
+    background: #6B4A11;
+    font-size: 20px;
+    float: left;
+    padding: 5px 15px;
+    margin: 0;
+    min-width: 75px;
+    border-radius:15px;
+}
+#welcome_msg{
+	text-align: center;
+	margin-top: 50px;
+}
+
+
+.modal {
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) { 
+  .modal:before {
+    display: inline-block;
+    vertical-align: middle;
+    content: " ";
+    height: 100%;
+  }
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.semStars{
+	background:#FFD777;
+	padding:20px;
+}
+/******** // NEW STYLE ********/
